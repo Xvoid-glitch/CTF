@@ -5,18 +5,18 @@
 
 1.  **Memulai Tantangan**
 
-      * Saya membuka situs web **picoCTF** dan memilih misi **Hashcrack**[cite: 1].
-      * Tantangan dimulai dan memberikan petunjuk koneksi: `nc verbal-sleep.picoctf.net 61774`[cite: 1].
-      * Saya membuka terminal, menempelkan perintah tersebut, dan muncul sebuah *hash* yang diikuti permintaan *password*[cite: 1].
+      * Saya membuka situs web **picoCTF** dan memilih misi **Hashcrack**.
+      * Tantangan dimulai dan memberikan petunjuk koneksi: `nc verbal-sleep.picoctf.net 61774`
+      * Saya membuka terminal, menempelkan perintah tersebut, dan muncul sebuah *hash* yang diikuti permintaan *password*.
 
 2.  **Petunjuk dan Alat Bantu**
 
-      * Petunjuk dari misi mengisyaratkan penggunaan **CrackStation**[cite: 1]. [cite\_start]Saya menggunakannya untuk memecahkan *hash* yang diberikan.
+      * Petunjuk dari misi mengisyaratkan penggunaan **CrackStation** Saya menggunakannya untuk memecahkan *hash* yang diberikan.
 
 3.  **Memecahkan Hash Pertama**
 
-      * **Hash Awal**: `482c811da5d5b4bc6d497ffa98491e38`[cite: 1].
-      * Setelah saya masukkan ke CrackStation, *password* yang muncul adalah **`password123`**[cite: 1].
+      * **Hash Awal**: `482c811da5d5b4bc6d497ffa98491e38`.
+      * Setelah saya masukkan ke CrackStation, *password* yang muncul adalah **`password123`**.
       * Setelah memasukkan *password* ini, muncul *hash* kedua.
 
 4.  **Memecahkan Hash Kedua**
