@@ -39,4 +39,6 @@
     ```
     picoCTF{UseStr0nG_h@shEs_&PaSswDs!_ccc21957}
     ```
+    
+<img width="1343" height="727" alt="Screenshot 2025-10-10 191904" src="https://github.com/user-attachments/assets/01cbc8da-ed94-4082-9015-df47742a1eda" />
 
