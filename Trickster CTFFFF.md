@@ -63,4 +63,26 @@ flagnya pun ketemu: picoCTF{c3rt!fi3d_Xp3rt_tr1ckst3r_73198bd9}
 ```
 10.**sewkian terimagaji**
 
+<img width="1359" height="767" alt="Screenshot 2025-11-10 230056" src="https://github.com/user-attachments/assets/81a4b668-011c-43ee-82f9-fa2c81c246df" />
+
+
+
+<img width="1359" height="767" alt="Screenshot 2025-11-10 232346" src="https://github.com/user-attachments/assets/4c350f19-2ad1-44ae-a73a-b697a43f78e0" />
+
+
+<img width="1359" height="767" alt="Screenshot 2025-11-10 232413" src="https://github.com/user-attachments/assets/eed464f7-d9b2-4cd3-83d6-77b394ea50f1" />
+
+
+
+<img width="1359" height="767" alt="Screenshot 2025-11-10 232458" src="https://github.com/user-attachments/assets/91158ef2-78a5-423e-8e2a-7a2fa5338786" />
+
+
+
+<img width="1359" height="767" alt="Screenshot 2025-11-10 232706" src="https://github.com/user-attachments/assets/91f97aaf-3511-4ecd-adfa-66b8d1b56948" />
+
+
+
+
+
+
 
