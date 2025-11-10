@@ -39,3 +39,18 @@
     ```
     muncullah flag nya
     ```
+
+
+
+
+    <img width="1359" height="767" alt="Screenshot 2025-11-10 185146" src="https://github.com/user-attachments/assets/8f777cf3-7955-4dae-8c3b-326ad454fa64" />
+
+
+
+
+
+
+
+
+    
+
