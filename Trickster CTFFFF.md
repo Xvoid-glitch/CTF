@@ -54,6 +54,13 @@ setelah berhasil di upload saya menjalankan program dengan mengandalkan clue 'up
 http://atlas.picoctf.net:59987/uploads/niggers.png.php
 dan saya ls -al untuk melihat seluruh file
 dan saya gunakan webroot untuk melihat dir awal dari sebuah web 'ls -al /var/www/html
-dan saya menemukan file aneh bernama
+dan saya menemukan file aneh bernama G4ZTCOJYMJSDS.txt
+saya coba buka pakai cat /var/www/html/G4ZTCOJYMJSDS.txt
+```
+9.**dan bom**
+```
+flagnya pun ketemu: picoCTF{c3rt!fi3d_Xp3rt_tr1ckst3r_73198bd9}
+```
+10.**sewkian terimagaji**
 
 
