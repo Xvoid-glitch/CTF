@@ -11,7 +11,7 @@
     kita diberikan nc verbal-sleep.picoctf.net 57686
     ```
 
-2.  **Output Parameter RSA**
+2.  **Output**
     ```
     salin dan tempel di terminal, outputnya :
 
