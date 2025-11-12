@@ -28,3 +28,8 @@ dan ada satu file bernama flag.gz, dan langsung saya gunzip dan cat
 ```
 picoCTF{n3v3r_z1p_2_h1d3_7e0a17da}
 ```
+
+<img width="1359" height="767" alt="Screenshot 2025-11-12 125902" src="https://github.com/user-attachments/assets/30063fe4-18ad-4312-95f7-b277d041e137" />
+<img width="1359" height="767" alt="Screenshot 2025-11-12 132433" src="https://github.com/user-attachments/assets/8b52d962-53ad-43c5-b4eb-fa606fc9bd19" />
+<img width="1359" height="761" alt="Screenshot 2025-11-12 122548" src="https://github.com/user-attachments/assets/2b4889c5-6802-4b1b-a56f-20fab1b46cd9" />
+
