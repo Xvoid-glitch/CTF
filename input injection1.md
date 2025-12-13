@@ -1,4 +1,4 @@
-<img width="1358" height="683" alt="image" src="https://github.com/user-attachments/assets/343ddf76-3fb7-4bdd-9f7f-25066f7ada44" />
+
 
 ## Info Challenge
 **Challenge:** Input Injection 1  
@@ -75,11 +75,12 @@ picoCTF{0v3rfl0w_c0mm4nd_d3eb7161}
 ## flag
 `flag`
 picoCTF{0v3rfl0w_c0mm4nd_d3eb7161} 
-![Uploading Screenshot 2025-12-13 145522.png…]()
+
 
 
 
 <img width="1358" height="683" alt="Screenshot 2025-12-13 145554" src="https://github.com/user-attachments/assets/5dcef757-0ada-40d2-ad15-5788c4657175" />
 
+<img width="1365" height="695" alt="Screenshot 2025-12-13 145522" src="https://github.com/user-attachments/assets/6516d657-2ac3-4e8b-a6ab-2ed690332bfe" />
 
 
