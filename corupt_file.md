@@ -30,7 +30,8 @@ saya ubah perbaiki header file
 dan saya buka di terminal lalu saya cek type file ini pake cmd: file file_corrupt
 output nya mengatakan ini file jpg
 saya uubah file nya pakai mv menjadi jpg 
-dan saya buka file nya dan saya menemukan flag nya 
+dan saya buka file nya dan saya menemukan flag nya
+```
 ---
 ## **berikut dokumentasinya**
 
