@@ -31,7 +31,13 @@ saya mencoba untuk menambahkan headers baru di post dengan cara saya muat ulang 
 lalu saya inspect dan ke bagian network tab, saya tambahkan nama headersnya X-Dev-Access dan value nya yes
 lalu saya kirim ulang dan saya cek response 
 dan saya menemukan flag nya
-berikut ini dokumentasi nya <img width="1920" height="1080" alt="Screenshot_2026-02-27_17_02_26" src="https://github.com/user-attachments/assets/9be1dc1f-6e66-4b94-9507-7a0c2faa6c1f" />
+berikut ini dokumentasi nya 
+<img width="1920" height="1080" alt="Screenshot_2026-02-27_17_02_32" src="https://github.com/user-attachments/assets/a1e6f9cb-c040-40f6-aafd-c8b853a3f60e" />
+<img width="1920" height="1080" alt="Screenshot_2026-02-27_17_03_37" src="https://github.com/user-attachments/assets/bfc2fdc7-a2eb-4940-9721-fc399fcffcee" /><img width="1920" height="1080" alt="<img width="1920" height="1080" alt="Screenshot_2026-02-27_17_05_45" src="https://github.com/user-attachments/assets/b2b63412-d26a-420c-9bd6-a53cfd43a2db" />
+Screenshot_2026-02-27_17_04_25" src="https://github.com/user-attachments/assets/1ce74243-e166-4a7b-8466-32c7d4177632" />
+
+
+
 
 
 
