@@ -23,14 +23,31 @@ diberikan file rusak yang harus kita buka isi dalam nya dan clue nya adalah disu
 
 ```
 saya mendownload file rusak tersebut
+```
+```
 langsung saya cek header file pakai hex editor online 
+```
+```
 lalu saya cari info di google hex dari jpeg, karena cluenya menyinggung jpg
+```
+```
 dan ternyata ada yg salah di header file yang tidak sesuai dengan hex jpg 
+```
+```
 saya ubah perbaiki header file 
+```
+```
 dan saya buka di terminal lalu saya cek type file ini pake cmd: file file_corrupt
+```
+```
 output nya mengatakan ini file jpg
+```
+```
 saya uubah file nya pakai mv menjadi jpg 
+```
+```
 dan saya buka file nya dan saya menemukan flag nya
+
 ```
 ---
 ## **berikut dokumentasinya**
