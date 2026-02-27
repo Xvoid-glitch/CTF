@@ -71,6 +71,7 @@ dan saya buka file nya dan saya menemukan flag nya
 
 
 
+<img width="1920" height="1080" alt="Screenshot_2026-02-27_18_16_34" src="https://github.com/user-attachments/assets/fe2a4608-16d0-406b-b1f9-ae3dbe0ed3e7" />
 
 
 
